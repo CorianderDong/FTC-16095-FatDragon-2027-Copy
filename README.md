@@ -1,5 +1,10 @@
 # FTC 16095 FatDragon
 
+> **副本说明 / Copy notice**：本仓库由本地克隆的
+> [`pengjinDaniel/FTC-16095-FatDragon-2027-Public`](https://github.com/pengjinDaniel/FTC-16095-FatDragon-2027-Public)
+> 复制而来。原仓库链接目前无法访问。这里保留了原有 Git 提交历史和许可证，
+> 仅用于保存及继续维护这份代码；本仓库不是 GitHub 的官方 Fork。
+
 确认电脑已安装 Android Studio（或可用 JDK）、Python 3.8 或更新版本和 Android SDK Platform-Tools，首次使用先联网准备好 Gradle 依赖。
 
 - macOS 双击 `无线传程序.command` 会先执行离线 `clean :TeamCode:assembleDebug`，成功后才进入上传。编译失败会停止，不会上传旧 APK。
